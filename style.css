@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(241, 149, 68);
+}
+h3{
+    text-align: center;
+}
+form{
+    background:linear-gradient(red,blue);
+    height: 500px;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.full{
+  margin-top: 5px;
+  margin-left: 65px;
+
+  
+}
+.Username{
+    margin-left: 150px;
+    text-align: center;
+    margin-top: 5px;
+}
+.namebox{
+    margin-top:0px;
+    position: relative;
+    margin-left: 60px;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.Usernames{
+    margin-left: 30px;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.emails{
+    margin-top: -20px;
+  margin-left: 65px; 
+  margin-top: 5px;
+}
+.Num{
+    margin-left: 170px;
+    text-align: center;
+    margin-top: 5px;
+}
+.email{
+    margin-top:0px;
+    position: relative;
+    margin-left: 60px;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.phone{
+    margin-left: 30px;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.pas{
+    margin-top: -20px;
+    margin-left: 65px;
+    margin-top: 5px;
+}
+.co{
+    margin-left: 150px;
+    text-align: center; 
+    margin-top: 5px;  
+}
+.pass{
+    margin-top:0px;
+    position: relative;
+    margin-left: 60px;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.com{
+    margin-left: 30px;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.while{
+    text-align: center;
+    margin-top: 5px;
+    margin-top: 5px;
+}
+.butt{
+    padding: 10px;
+    margin-left: 210px;
+    margin-top: 5px;
+    width: 100px;
+    border-radius: 8px;
+    cursor: pointer;
+    
+}
+.butt:hover{
+    background: linear-gradient(blue,brown);
+}
